@@ -4,14 +4,12 @@ Octopress Flat is a "Flat UI"-inspired theme for [Octopress](http://octopress.or
 
 Ideally, it will eventually allow each post to have a unique color theme, but I have to figure out how to do that first.
 
-![Octopress Flat](/octopress-flat.png)
-
-Twitter: @alexharris6
+Twitter: @sugoi_wada
 
 Install
 -------
     $ cd octopress
-    $ git clone git://github.com/alexharris/octopress-flat.git .themes/octopress-flat
+    $ git clone git@github.com:sugoi-wada/octopress-flat.git .themes/octopress-flat
     $ rake install['octopress-flat']
     $ rake generate
 
